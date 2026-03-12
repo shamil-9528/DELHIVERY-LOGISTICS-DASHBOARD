@@ -6,11 +6,6 @@
 
 ---
 
-## 📊 Dashboard Preview
-
-![Delhivery Logistics Dashboard](images/delhivery_dashboard.png)
-
----
 
 ## 📌 Project Description
 
@@ -30,17 +25,6 @@ The dashboard provides insights into **delivery delays, route efficiency, trip p
 
 ---
 
-## 📊 Dashboard Features
-
-- Delivery status analysis (**Late vs On-Time deliveries**)
-- **Route efficiency classification** (Efficient, Average, Inefficient)
-- **FTL vs Carting delivery time comparison**
-- **Average delay by source city**
-- **Average delay by destination city**
-- **Trip distribution by route type**
-- Interactive visual insights for logistics operations
-
----
 
 ## ⚙️ Methodology
 
@@ -91,7 +75,22 @@ The dataset contains logistics delivery information including:
 - Delay Metrics
 
 ---
+## 📊 Dashboard Preview
 
+![Delhivery Logistics Dashboard](https://github.com/shamil-9528/DELHIVERY-LOGISTICS-DASHBOARD/blob/main/DELHIVERY_dashboard/Screenshot%202026-02-24%20140152%20-%20Copy.png)
+
+---
+## 📊 Dashboard Features
+
+- Delivery status analysis (**Late vs On-Time deliveries**)
+- **Route efficiency classification** (Efficient, Average, Inefficient)
+- **FTL vs Carting delivery time comparison**
+- **Average delay by source city**
+- **Average delay by destination city**
+- **Trip distribution by route type**
+- Interactive visual insights for logistics operations
+
+---
 ## 🎯 Project Objectives
 
 - Analyze logistics delivery performance
